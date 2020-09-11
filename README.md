@@ -26,10 +26,9 @@
  - Azure search service
 
 ## €”õ‚³‚ê‚Ä‚¢‚éŒ¾Œê
-–{ƒeƒ“ƒvƒŒ[ƒg‚Í“ú–{Œê‚Å€”õ‚³‚ê‚Ä‚¨‚èA’Ç‰Á‚ÅˆÈ‰º‚ÌŒ¾Œê‚É‘Î‰ž‚µ‚Ü‚·
+–{ƒeƒ“ƒvƒŒ[ƒg‚Í“ú–{Œê‚Å’ñ‹Ÿ‚³‚ê‚Ä‚¨‚è‚Ü‚·B
 
  - “ú–{Œê (Japanese)
- - ‰pŒê (English)
 
 ## Žå‚È‹@”\
 Quick ResponsesƒAƒvƒŠ‚ÍAƒ†[ƒU[‚©‚ç‚æ‚­Šñ‚¹‚ç‚ê‚éŽ¿–â‚É‘Î‚µ‚ÄŒø—¦“I‚É‰ñ“š‚·‚é‚½‚ß‚Ì‹@”\‚ð—L‚µ‚Ä‚¢‚Ü‚·B
@@ -47,9 +46,3 @@ Quick ResponsesƒAƒvƒŠ‚ÍAƒ†[ƒU[‚©‚ç‚æ‚­Šñ‚¹‚ç‚ê‚éŽ¿–â‚É‘Î‚µ‚ÄŒø—¦“I‚É‰ñ“š‚·‚é‚
 
 ## “WŠJ•û–@
 ŠÇ—ŽÒŒü‚¯“WŠJƒKƒCƒh‚ðŽQÆ‚µ‚Ä‚­‚¾‚³‚¢
-
-**–ÆÓŽ–€**
-
-–{ƒeƒ“ƒvƒŒ[ƒg‚¨‚æ‚ÑŠÖ˜AƒT[ƒrƒX‚ÍAŠeŠé‹Æ‚Ìƒj[ƒY‚ð‘S‚ÄŠÜ‚ß‚é‚æ‚¤‚ÉÝŒv‚³‚ê‚½‚à‚Ì‚Å‚Í‚È‚­A‚»‚Ì‚æ‚¤‚È—p“r‚ÅŽg—p‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñBŽÀÛ‚Ì—˜—p‚â•K—v‚È’Ç‰Á‚ÌƒJƒXƒ^ƒ}ƒCƒY‚Í“±“üŽx‰‡ƒp[ƒgƒi[‚ÉŠm”FEˆË—Š‚µ‚Ä‚­‚¾‚³‚¢B
-–{ƒeƒ“ƒvƒŒ[ƒg‚¨‚æ‚ÑŠÖ˜AƒT[ƒrƒX‚Ì‚¢‚©‚È‚éŽg—p‚É‚¨‚¢‚Ä‚àA—˜—pŽÒ‚ª‚·‚×‚ÄƒŠƒXƒN‚ÆÓ”C‚ð•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·B‚Ü‚½AŽÀ‘•‚µ‚½–{ƒeƒ“ƒvƒŒ[ƒg‚¨‚æ‚ÑŠÖ˜Aƒ}ƒCƒNƒƒ\ƒtƒg ƒT[ƒrƒX‚ÌŽg—p‚ÉŠÖ‚µ‚ÄA“KØ‚ÈŒx‚âî•ñ‚ðƒGƒ“ƒhƒ†[ƒU[‚É’ñ‹Ÿ‚·‚é‚±‚Æ‚É‚Â‚¢‚Ä‚àA—˜—pŽÒ‚ªÓ”C‚ð•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·B
-–{ƒeƒ“ƒvƒŒ[ƒg‚ÍA“ú–{‘“à‚Å‚ÌŽg—p‚Ì‚Ý‚ð–Ú“I‚Æ‚µAŒ‡Š×‚È‚Ç‚ª‚ ‚é‰Â”\«‚ðŠÜ‚ñ‚¾‚Ü‚Ü‚Ìó‘Ô‚Å’ñ‹Ÿ‚³‚ê‚Ä‚¨‚èA‚¢‚©‚È‚éŽí—Þ‚Ì•ÛØ‚à“K—p‚³‚ê‚Ü‚¹‚ñB
