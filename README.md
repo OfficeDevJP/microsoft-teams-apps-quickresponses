@@ -11,9 +11,9 @@
 
 ## 構成内容
 本テンプレートは次の要素で構成されています
- 1. Quick Responsesソリューション
- 2. 管理者向け展開ガイド
- 3. エンドユーザー向け利用者ガイド
+ 1. [Quick Responsesソリューション](https://github.com/OfficeDevJP/microsoft-teams-apps-quickresponses/releases/latest)
+ 2. [管理者向け展開ガイド](https://github.com/OfficeDevJP/microsoft-teams-apps-quickresponses/releases/download/v1.0.0/Quick_Responses_Deployment_Guide.pdf)
+ 3. [エンドユーザー向け利用者ガイド](https://github.com/OfficeDevJP/microsoft-teams-apps-quickresponses/releases/download/v1.0.0/Quick_Responses_User_Guide.pdf)
 
 ## 展開・利用に必要な条件
 本テンプレートを展開・利用するには以下が必要となります。詳しくは日本マイクロソフト担当者までお問い合わせください。
@@ -42,7 +42,7 @@ Quick Responsesアプリは、ユーザーからよく寄せられる質問に�
 
 ## ダウンロード
 以下のリンクより最新版バージョンをダウンロードいただけます。  
-    [最新のリリースページへ移動]<<Gitが決まってから更新>>
+    [最新のリリースページへ移動](https://github.com/OfficeDevJP/microsoft-teams-apps-quickresponses/releases/latest)
 
 ## 展開方法
-管理者向け展開ガイドを参照してください
+[管理者向け展開ガイド](https://github.com/OfficeDevJP/microsoft-teams-apps-quickresponses/releases/download/v1.0.0/Quick_Responses_Deployment_Guide.pdf)を参照してください
